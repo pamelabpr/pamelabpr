@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Welcome to my GitHub ✨</h1>
 
-<!--
-**pamelabpr/pamelabpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/pamela-barbosa-4b7a21423/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://github.com/pamelabpr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center"><i>Estudante e desenvolvedora em formação.</i></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### <img src="memoji.png" width="25" alt="Memoji da Pamela"> Olá eu sou a Pamela! 
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🎯 Foco em Python, HTML, CSS e JavaScript
+- 🚀 Construindo projetos para aprimorar as minhas habilidades
+
+### 🛠️ Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+
+
+### 📂 Projeto em destaque
+
+**[Sistema de Controle de Clínica](https://github.com/pamelabpr/sistema-controle-clinica)** (Python)
+Simula atendimentos com desconto de convênio, atendimento prioritário por idade e relatório de faturamento.

@@ -5,11 +5,11 @@
   <a href="https://github.com/pamelabpr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<p align="center"><i>Estudante e desenvolvedora em formação.</i></p>
+<p align="center"><i>Aberta a oportunidades de estágio na área de tecnologia.</i></p>
 
 ---
 
-### <img src="memoji.png" width="25" alt="Memoji da Pamela"> Olá eu sou a Pamela! 
+### Olá, eu sou a Pamela! <img src="memoji.png" width="25" alt="Memoji da Pamela"> 
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 🎯 Foco em Python, HTML, CSS e JavaScript
@@ -31,3 +31,11 @@
 
 **[Sistema de Controle de Clínica](https://github.com/pamelabpr/sistema-controle-clinica)** (Python)
 Simula atendimentos com desconto de convênio, atendimento prioritário por idade e relatório de faturamento.
+
+### 📚 Estudando agora
+
+- Inglês Técnico
+- Banco de Dados (SQL)
+
+
+<p align="center"><i>Obrigada por passar por aqui! ✨</i></p>
